@@ -24,4 +24,4 @@ let bookBasket = [[1, 2],
 This means book 1 has two copies, book 3 has five copies and book 5 has seven copies.
 
 ### Extra info
-There are some console.log() calls throughout the code that help understand how the input is processed. They are all commented. If needed, uncomment all of them.
+There are some `console.log()` calls throughout the code that help understand how the input is processed. They are all commented. If needed, uncomment all of them.
